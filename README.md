@@ -18,7 +18,7 @@ markdown file explaining my thought process.
 
 P.s. Safely ignore the "Status". It's for my personal use.
 
-✔❌
+✔⚠❌
 ### Array
 
 | Status | Question & Submission Link | My C++ Implementation |
