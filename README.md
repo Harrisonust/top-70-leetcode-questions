@@ -104,11 +104,11 @@ P.s. Safely ignore the "Status". It's for my personal use.
 
 | Status | Question & Submission Link | My C++ Implementation |
 | ------ | -------------------------- | --------------------- |
-||[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) **(Easy)** | [Answer](src/Maximum%20Depth%20of%20Binary%20Tree) |
-||[Same Tree](https://leetcode.com/problems/same-tree/) **(Easy)** | [Answer](src/Same%20Tree) |
-||[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) **(Easy)** | [Answer](src/Invert%20Binary%20Tree) |
-||[Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/) **(Easy)** | [Answer](src/Subtree%20of%20Another%20Tree) |
-||[Lowest Common Ancestor of BST](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) **(Easy)** | [Answer](src/Lowest%20Common%20Ancestor%20of%20BST) |
+|✔|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) **(Easy)** | [Answer](src/Maximum%20Depth%20of%20Binary%20Tree) |
+|✔|[Same Tree](https://leetcode.com/problems/same-tree/) **(Easy)** | [Answer](src/Same%20Tree) |
+|✔|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) **(Easy)** | [Answer](src/Invert%20Binary%20Tree) |
+|✔|[Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/) **(Easy)** | [Answer](src/Subtree%20of%20Another%20Tree) |
+|✔|[Lowest Common Ancestor of BST](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) **(Easy)** | [Answer](src/Lowest%20Common%20Ancestor%20of%20BST) |
 ||[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) **(Medium)** | [Answer](src/Binary%20Tree%20Level%20Order%20Traversal) |
 ||[Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) **(Medium)** | Answer |
 ||[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) **(Medium)** | Answer |
@@ -133,11 +133,11 @@ P.s. Safely ignore the "Status". It's for my personal use.
 
 | Status | Question & Submission Link | My C++ Implementation |
 | ------ | -------------------------- | --------------------- |
-||[Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/) **(Easy)** | [Answer](src/Sum%20of%20Two%20Integers) |
-||[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) **(Easy)** | Answer |
-||[Missing Number](https://leetcode.com/problems/missing-number/) **(Easy)** | Answer |
-||[Reverse Bits](https://leetcode.com/problems/reverse-bits/) **(Easy)** | Answer |
-||[Counting Bits](https://leetcode.com/problems/counting-bits/) **(Medium)** | Answer |
+|✔|[Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/) **(Easy)** | [Answer](src/Sum%20of%20Two%20Integers) |
+|✔|[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) **(Easy)** | Answer |
+|✔|[Missing Number](https://leetcode.com/problems/missing-number/) **(Easy)** | Answer |
+|✔|[Reverse Bits](https://leetcode.com/problems/reverse-bits/) **(Easy)** | Answer |
+|✔|[Counting Bits](https://leetcode.com/problems/counting-bits/) **(Medium)** | Answer |
 
 <br/>
 
